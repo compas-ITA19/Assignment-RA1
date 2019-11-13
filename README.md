@@ -16,4 +16,6 @@
 1. Create a `RobotArtist` of your preferance (e.g. `compas_fab.ghpython` or `compas_fab.rhino`)
 1. Use the artist to `update` the robot with the created configuration, such that it configures into the letter of your choice (or any other identifiable figure).
 
+You can reuse code from `06_build_your_own_robot.py` in this repository.
+
 <div align="center"><br><img src="https://github.com/compas-ITA19/ITA19/blob/master/modules/module2/images/assignment1_2.jpg" width="600" /></div>
